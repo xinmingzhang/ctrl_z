@@ -1,0 +1,40 @@
+Licenses
+
+CC0            https://creativecommons.org/publicdomain/zero/1.0/legalcode
+CC BY 3.0    http://creativecommons.org/licenses/by/3.0/legalcode
+
+ART
+
+File name: pumpkin.png
+Source: https://openclipart.org/detail/189427/pumpkin-moliagas
+Author: Keistutis https://openclipart.org/user-detail/Keistutis
+License: Public Domain
+
+MUSIC
+
+File name: creepy.ogg
+Source: http://opengameart.org/content/creepy
+Author: TokyoGeisha 
+License: CC0
+
+SOUNDS
+
+File name: thunder1.ogg
+Source: https://www.freesound.org/people/Yoyodaman234/sounds/253953/
+Author: Yoyodaman234 https://www.freesound.org/people/Yoyodaman234/
+License: CC0
+
+File name: thunder2.ogg
+Source: https://www.freesound.org/people/netaj/sounds/193170/
+Author: netaj https://www.freesound.org/people/netaj/
+License: CC0
+
+File name: thunder3.ogg
+Source: https://www.freesound.org/people/IllusiaProductions/sounds/249950/
+Author: Illusia Productions https://www.freesound.org/people/IllusiaProductions/
+License: CC BY 3.0
+
+File name: thunder4.ogg
+Source: https://www.freesound.org/people/RSilveira_88/sounds/216268/
+Author: R_Silveira_88 https://www.freesound.org/people/RSilveira_88/
+License: CC BY 3.0
